@@ -609,7 +609,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     backgroundColor: "#4A90E2",
     bottom: 50,
-    elevation: 4,
+    elevation: 20,
     justifyContent: "center",
     position: "absolute",
     right: 30,
@@ -643,7 +643,7 @@ const styles = StyleSheet.create({
   card: {
     borderRadius: 18,
     marginTop: 18,
-    elevation: 5,
+    elevation: 20,
   },
 
   noteTitle: {
